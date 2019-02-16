@@ -1,0 +1,125 @@
+
+.photo{
+    width: 19%;
+    margin-top: 7%;
+}
+.titre{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: Gray;
+    margin-top: 3%;
+}
+.address{
+font-size: 20px;
+color:#708090;
+}
+.address a{
+    color: #3d83df;
+}
+.part1{
+    margin-left: 13%;
+    margin-top: 20%;
+    color:#708090;
+}
+.bi-title{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #008080;
+    
+}
+.date{
+    color: #D8BFD8;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 2rem;
+
+}
+.bottom-line{
+    margin-right: 47%;
+}
+.bi-title1{
+    margin-left: 13%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #008080;
+    margin-top: 13%;
+}
+.bottom-line2{
+    margin-left:13%;
+    margin-right: 17%;
+    
+}
+.list-card{
+    margin-top: 5%;
+}
+
+.img-2{
+    width: 89%;
+}
+.img-3{
+    width: 89%;
+
+}
+.text2{
+    margin-top: 19%;
+}
+.text3{
+    margin-top: 18%; 
+}
+ .titre-cad{
+     margin-top: 26%;
+ }
+ .bi-title2{
+    margin-left: 26%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #008080;
+    margin-top: 13%;
+
+ }
+.bottom-line3{
+    margin-left:26%;
+    margin-right: 17%;
+}
+
+.carte1{
+    background-color: #D3D3D3;
+    color: white;
+    margin-left: 8%;
+}
+.titre-card{
+    color:   	#FFC0CB;
+    font-size: 22px;
+}
+.text-card{
+    color: #E6E6FA;
+    font-size: 19px;
+
+}
+.carte2{
+    max-width: 50rem;
+    margin-left: 32%;
+}
+
+.social-link{
+    display:flex;
+    justify-content:center;
+
+}
+
+.footer-text{
+    font-size: .75em;
+    color: #ababab;
+    margin-top: 10%;
+    
+}
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px){
+    .titre{
+        font-size: 12px;
+    
+    }
+    .address{
+        font-size: 8px;
+    }
+    .part1{
+        margin-left: 4%;
+        margin-right: 14%;
+
+
+    }
+}
